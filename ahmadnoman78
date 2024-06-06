@@ -1,0 +1,1 @@
+io_net_launch_binary_windows.exe --device_id=dde33b30-7441-42e7-870c-de0de9a588f4 --user_id=4091f731-3844-46be-804c-8a096682a243 --operating_system="Windows" --usegpus=true --device_name="New-device"
